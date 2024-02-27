@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shivam-kumar123?tab=repositories](https://github.com/shivam-kumar123?tab=repositories)
+- 👨‍💻 All of my projects are available at ,[https://github.com/Debanjan2000?tab=repositories](https://github.com/Debanjan2000?tab=repositories)
 
-- 💬 Ask me about **React , Node , JS , C++ , OS , CN , OOPS , System Design , React Native CLI , DSA**
+- 💬 Ask me about **React , Node , JS , C++ , OS , CN , OOPS , DSA**
 
-- 📫 How to reach me **shivam100nsingh@gmail.com**
+- 📫 How to reach me **debaanjandas340@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
